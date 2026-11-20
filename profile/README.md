@@ -1,6 +1,4 @@
-# Secret Cinema
-
-**Masters of immersive.**
+# Masters of immersive.
 
 We exist to make people feel like they're part of something bigger.
 
